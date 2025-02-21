@@ -11,12 +11,12 @@
 
 
 
-<h1>🎯 Objective</h1>
+<h2>🎯 Objective</h2>
 
 My goal is to develop innovative solutions that not only positively impact people's lives but also drive meaningful change, enhance productivity, and inspire growth. 🚀
 
 
-<h1>🚀 About Me</h1>
+<h2>🚀 About Me</h2>
 
 Hello! I'm José Vitor, a technology enthusiast passionate about innovation and software development. 
 
@@ -30,7 +30,7 @@ Currently, I'm improving my skills in:
 
 🌍 Building scalable SaaS solutions
 
-<h1>📌 Featured Projects</h1>
+<h2>📌 Featured Projects</h2>
 
 Rehabit 🧠📈: A tool to help people improve their habits, based on the habit loop concept (cue, routine, reward). 
 
