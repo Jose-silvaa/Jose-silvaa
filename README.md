@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! Glad you're here. 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-silvaa&show_icons=true&theme=dark)
 
@@ -31,6 +31,12 @@ Currently, I'm improving my skills in:
 🌍 Building scalable SaaS solutions
 
 <h1>📌 Featured Projects</h1>
+
+Rehabit 🧠📈: A tool to help people improve their habits, based on the habit loop concept (cue, routine, reward). 
+
+Frontend : https://github.com/Jose-silvaa/frontend-rehabit
+
+Backend : https://github.com/Jose-silvaa/server-habit
 <!--
 **Jose-silvaa/Jose-silvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
