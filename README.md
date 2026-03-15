@@ -4,7 +4,6 @@
 
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,21 +20,19 @@ Hello! I'm José Vitor, a technology enthusiast passionate about innovation and 
 
 Currently, I'm improving my skills in:
 
-🖥️ Full Stack Development (NextJS, JavaScript, TypeScript)
+🖥️ Full Stack Development (.NET, JavaScript, TypeScript)
 
 🏛️ Software Architecture and Design Patterns
 
-🗄️ Relational Databases (PostgreSQL) and NoSQL (MongoDB)
-
-🌍 Building scalable SaaS solutions
+🗄️ Relational Databases (PostgreSQL) and NoSQL (MongoDB
 
 <h2>📌 Featured Projects</h2>
 
-Rehabit 🧠📈: A tool to help people improve their habits, based on the habit loop concept (cue, routine, reward). 
+Support System 🎫🛠️: A ticket management platform that allows users to create, track, and manage support requests efficiently
 
-Frontend : https://github.com/Jose-silvaa/frontend-rehabit
+Frontend : https://github.com/Jose-silvaa/Support-System-Frontend
 
-Backend : https://github.com/Jose-silvaa/server-habit
+Backend : https://github.com/Jose-silvaa/Support-System-Backend
 <!--
 **Jose-silvaa/Jose-silvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
