@@ -32,7 +32,7 @@ Support System 🎫🛠️: A ticket management platform that allows users to cr
 
 Frontend : https://github.com/Jose-silvaa/Support-System-Frontend
 
-Backend : https://github.com/Jose-silvaa/Support-System-Backend
+Backend : https://github.com/Jose-silvaa/Support-System-API
 <!--
 **Jose-silvaa/Jose-silvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
