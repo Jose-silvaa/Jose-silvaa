@@ -1,8 +1,5 @@
 ## Hey! Glad you're here. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-silvaa&show_icons=true&theme=dark)
-
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
